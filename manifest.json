@@ -1,7 +1,7 @@
 {
     "name": "Youtube To VLC",
     "description": "Chrome Extension to play Youtube's videos on VLC.",
-    "version": "0.1",
+    "version": "1.0",
     "permissions": ["tabs", "https://*.youtube.com/*", "http://localhost:8080/*"],
     "background": {
         "scripts": ["javascripts/background.js"]
